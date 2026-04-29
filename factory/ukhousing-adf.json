@@ -1,0 +1,15 @@
+{
+	"name": "ukhousing-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d93b574f-056f-404e-948e-3db0ed88b546",
+		"tenantId": "32a0bcd1-f45f-40d8-9a93-4ec71cb43fc2"
+	}
+}
